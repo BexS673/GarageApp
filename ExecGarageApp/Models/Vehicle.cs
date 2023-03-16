@@ -29,6 +29,29 @@ namespace GarageApp.Models
             Console.WriteLine("Free parking \r\n");
         }
 
+        internal Space FindAvailableSpaceOnFloor(Floor floor)
+        {
+
+            if (NumAvailableSpaces != 0)
+            {
+
+                foreach (Space availableSpace in floor.AvailableSpaces)
+                {
+                    if (availableSpace.Size == Size)
+                    {
+                        //Console.WriteLine($"Space {availableSpace.SpaceId} of size {availableSpace.Size} is available on floor {FloorID}.");
+
+                        return availableSpace;
+                    }
+                }
+
+                return null;
+            } 
+            else
+            {              
+                return null;
+            }
+        }
         public void ParkVehicle(Garage garage)
         {
             if (garage.NumFloorsWithSpace != 0)
@@ -36,7 +59,7 @@ namespace GarageApp.Models
                 Console.WriteLine($"{TypeOfVehicle} reg {Registration} is looking for a parking space... \r\n");
                         foreach (Floor garageFloor in garage.Floors)
                         {
-                                Space availableSpace = garageFloor.FindAvailableSpaceOnFloor(Size);
+                                Space availableSpace = garageFloor.FindAvailableSpaceOnFloor(garageFloor);
                                 if (availableSpace != null)
                                 {
                                     garageFloor.FillSpace(availableSpace);
