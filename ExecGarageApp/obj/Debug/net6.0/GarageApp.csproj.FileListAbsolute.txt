@@ -1,0 +1,15 @@
+C:\Users\rsaye\OneDrive\Documents\Capgemini\Capgemini\Garage\ExecGarageApp\obj\Debug\net6.0\GarageApp.csproj.AssemblyReference.cache
+C:\Users\rsaye\OneDrive\Documents\Capgemini\Capgemini\Garage\ExecGarageApp\obj\Debug\net6.0\GarageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsaye\OneDrive\Documents\Capgemini\Capgemini\Garage\ExecGarageApp\obj\Debug\net6.0\GarageApp.AssemblyInfoInputs.cache
+C:\Users\rsaye\OneDrive\Documents\Capgemini\Capgemini\Garage\ExecGarageApp\obj\Debug\net6.0\GarageApp.AssemblyInfo.cs
+C:\Users\rsaye\OneDrive\Documents\Capgemini\Capgemini\Garage\ExecGarageApp\obj\Debug\net6.0\GarageApp.csproj.CoreCompileInputs.cache
+C:\Users\rsaye\OneDrive\Documents\Capgemini\Capgemini\Garage\ExecGarageApp\bin\Debug\net6.0\GarageApp.exe
+C:\Users\rsaye\OneDrive\Documents\Capgemini\Capgemini\Garage\ExecGarageApp\bin\Debug\net6.0\GarageApp.deps.json
+C:\Users\rsaye\OneDrive\Documents\Capgemini\Capgemini\Garage\ExecGarageApp\bin\Debug\net6.0\GarageApp.runtimeconfig.json
+C:\Users\rsaye\OneDrive\Documents\Capgemini\Capgemini\Garage\ExecGarageApp\bin\Debug\net6.0\GarageApp.dll
+C:\Users\rsaye\OneDrive\Documents\Capgemini\Capgemini\Garage\ExecGarageApp\bin\Debug\net6.0\GarageApp.pdb
+C:\Users\rsaye\OneDrive\Documents\Capgemini\Capgemini\Garage\ExecGarageApp\obj\Debug\net6.0\GarageApp.dll
+C:\Users\rsaye\OneDrive\Documents\Capgemini\Capgemini\Garage\ExecGarageApp\obj\Debug\net6.0\refint\GarageApp.dll
+C:\Users\rsaye\OneDrive\Documents\Capgemini\Capgemini\Garage\ExecGarageApp\obj\Debug\net6.0\GarageApp.pdb
+C:\Users\rsaye\OneDrive\Documents\Capgemini\Capgemini\Garage\ExecGarageApp\obj\Debug\net6.0\GarageApp.genruntimeconfig.cache
+C:\Users\rsaye\OneDrive\Documents\Capgemini\Capgemini\Garage\ExecGarageApp\obj\Debug\net6.0\ref\GarageApp.dll
