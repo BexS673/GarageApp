@@ -35,34 +35,6 @@ namespace GarageApp.Models
                 FloorFull = true;
             }
         }
-        
-        public Space FindAvailableSpaceOnFloor(SizeType carSize)
-        {
-            
-            if (NumAvailableSpaces != 0)
-            {
-              
-                foreach (Space availableSpace in AvailableSpaces)
-                {
-                    if (availableSpace.Size == carSize)
-                    {
-                        //Console.WriteLine($"Space {availableSpace.SpaceId} of size {availableSpace.Size} is available on floor {FloorID}.");
-                            
-                        return availableSpace;
-                    }
-                }
-
-                return null;
-                
-            } 
-            else
-            {
-                //Console.WriteLine("No spaces available on this floor. Please try the next floor");
-
-                return null;
-            }
-        }
-
-       
+             
     }
 }
